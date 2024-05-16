@@ -1,3 +1,3 @@
-# Responsive-personal-website
+# Responsive-watches-website
 
-DEMO : https://sara-alizadeh-developer.github.io/responsive-watches-website-main
+DEMO : https://sara-alizadeh-developer.github.io/responsive-watches-website
